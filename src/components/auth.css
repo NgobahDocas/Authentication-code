@@ -1,0 +1,102 @@
+.auth-container {
+    width: 330px;
+    margin: 20px;
+    height: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    vertical-align: top;
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    align-items: center;
+}
+.auth-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+
+}
+
+.form-group input {
+    width: 100;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.form-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    color: cyan;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: antiquewhite;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+.form-actions p {
+    margin: 0;
+    text-align: left;
+}
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+a {
+    color: blue;
+  }
+  
+  a:hover {
+    color: brown; 
+  }
+  
+  .forgot-password a {
+    color: brown; 
+  }
+  
+  .forgot-password a:hover {
+    color: brown;
+  } 
+  .don-not-have-an-account a {
+    color: brown;
+
+  }
+  .don-not-have-an-account a:hover {
+    color: brown;
+
+  }
+  .already-have-an-account a {
+    color: brown;
+  }
